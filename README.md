@@ -8,10 +8,6 @@ Inspirado (na cara dura) em [awesome-ufma](https://github.com/elheremes/awesome-
 Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > professor > período > PX (ou LX caso for uma lista)**
 
 ## Guia
-- [.github](./.github)
-  - [workflows](./.github/workflows)
-    - [update-readme.yml](./.github/workflows/update-readme.yml)
-
 - [Arquitetura de Computadores](./Arquitetura%20de%20Computadores)
   - [Vinod](./Arquitetura%20de%20Computadores/Vinod)
     - [22.1](./Arquitetura%20de%20Computadores/Vinod/22.1)
@@ -24,16 +20,13 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
     - [25.2](./Arquitetura%20de%20Computadores/Vinod/25.2)
       - [P2.jpeg](./Arquitetura%20de%20Computadores/Vinod/25.2/P2.jpeg)
     - [readme.txt](./Arquitetura%20de%20Computadores/Vinod/readme.txt)
-
 - [Avaliação de Desempenho](./Avaliação%20de%20Desempenho)
   - [Desconhecido](./Avaliação%20de%20Desempenho/Desconhecido)
     - [P1.jpg](./Avaliação%20de%20Desempenho/Desconhecido/P1.jpg)
     - [P2.jpg](./Avaliação%20de%20Desempenho/Desconhecido/P2.jpg)
-
 - [Circuitos Digitais para CC](./Circuitos%20Digitais%20para%20CC)
   - [La Vega](./Circuitos%20Digitais%20para%20CC/La%20Vega)
     - [P1.pdf](./Circuitos%20Digitais%20para%20CC/La%20Vega/P1.pdf)
-
 - [Cálculo I](./Cálculo%20I)
   - [Antônio Nigro](./Cálculo%20I/Antônio%20Nigro)
     - [P1.pdf](./Cálculo%20I/Antônio%20Nigro/P1.pdf)
@@ -48,7 +41,6 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
     - [VR(b).pdf](./Cálculo%20I/Magda%20Kimico/VR(b).pdf)
     - [VS(a).pdf](./Cálculo%20I/Magda%20Kimico/VS(a).pdf)
     - [VS(b).pdf](./Cálculo%20I/Magda%20Kimico/VS(b).pdf)
-
 - [Cálculo II](./Cálculo%20II)
   - [Ageu](./Cálculo%20II/Ageu)
     - [25.2](./Cálculo%20II/Ageu/25.2)
@@ -58,20 +50,17 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
       - [P2.pdf](./Cálculo%20II/Ageu/25.2/P2.pdf)
       - [VR(2).pdf](./Cálculo%20II/Ageu/25.2/VR(2).pdf)
       - [VR.pdf](./Cálculo%20II/Ageu/25.2/VR.pdf)
-
 - [Engenharia de Software II](./Engenharia%20de%20Software%20II)
   - [Troy](./Engenharia%20de%20Software%20II/Troy)
     - [25.1](./Engenharia%20de%20Software%20II/Troy/25.1)
       - [P2(1).jpg](./Engenharia%20de%20Software%20II/Troy/25.1/P2(1).jpg)
       - [P2(2).jpg](./Engenharia%20de%20Software%20II/Troy/25.1/P2(2).jpg)
-
 - [Fundamentos de Arquitetura de Computadores](./Fundamentos%20de%20Arquitetura%20de%20Computadores)
   - [Vinod](./Fundamentos%20de%20Arquitetura%20de%20Computadores/Vinod)
     - [22.2](./Fundamentos%20de%20Arquitetura%20de%20Computadores/Vinod/22.2)
       - [P1.pdf](./Fundamentos%20de%20Arquitetura%20de%20Computadores/Vinod/22.2/P1.pdf)
       - [P2.pdf](./Fundamentos%20de%20Arquitetura%20de%20Computadores/Vinod/22.2/P2.pdf)
     - [readme.txt](./Fundamentos%20de%20Arquitetura%20de%20Computadores/Vinod/readme.txt)
-
 - [Fundamentos de Cálculo e Geometria](./Fundamentos%20de%20Cálculo%20e%20Geometria)
   - [Abigail](./Fundamentos%20de%20Cálculo%20e%20Geometria/Abigail)
     - [19.1](./Fundamentos%20de%20Cálculo%20e%20Geometria/Abigail/19.1)
@@ -100,20 +89,17 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
     - [25.2](./Fundamentos%20de%20Cálculo%20e%20Geometria/Viviana/25.2)
       - [P1.jpeg](./Fundamentos%20de%20Cálculo%20e%20Geometria/Viviana/25.2/P1.jpeg)
       - [VR.jpeg](./Fundamentos%20de%20Cálculo%20e%20Geometria/Viviana/25.2/VR.jpeg)
-
 - [Inteligência Artificial](./Inteligência%20Artificial)
   - [Aline](./Inteligência%20Artificial/Aline)
     - [25.1](./Inteligência%20Artificial/Aline/25.1)
       - [P2(1).jpg](./Inteligência%20Artificial/Aline/25.1/P2(1).jpg)
       - [P2(2).jpg](./Inteligência%20Artificial/Aline/25.1/P2(2).jpg)
-
 - [Laboratório de Resolução de Problemas](./Laboratório%20de%20Resolução%20de%20Problemas)
   - [Mário](./Laboratório%20de%20Resolução%20de%20Problemas/Mário)
     - [22.2](./Laboratório%20de%20Resolução%20de%20Problemas/Mário/22.2)
       - [P1.jpg](./Laboratório%20de%20Resolução%20de%20Problemas/Mário/22.2/P1.jpg)
       - [P2.jpg](./Laboratório%20de%20Resolução%20de%20Problemas/Mário/22.2/P2.jpg)
       - [VR.jpg](./Laboratório%20de%20Resolução%20de%20Problemas/Mário/22.2/VR.jpg)
-
 - [Lógica para CC](./Lógica%20para%20CC)
   - [Jorge Petrucio](./Lógica%20para%20CC/Jorge%20Petrucio)
     - [23.2](./Lógica%20para%20CC/Jorge%20Petrucio/23.2)
@@ -138,7 +124,6 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
       - [P2.jpeg](./Lógica%20para%20CC/Slobodan/25.1/P2.jpeg)
       - [VR.jpeg](./Lógica%20para%20CC/Slobodan/25.1/VR.jpeg)
       - [VS.jpeg](./Lógica%20para%20CC/Slobodan/25.1/VS.jpeg)
-
 - [Matemática Discreta](./Matemática%20Discreta)
   - [Jones](./Matemática%20Discreta/Jones)
     - [23.2](./Matemática%20Discreta/Jones/23.2)
@@ -175,11 +160,9 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
     - [23.1](./Matemática%20Discreta/Yuri%20Ki/23.1)
       - [P1.pdf](./Matemática%20Discreta/Yuri%20Ki/23.1/P1.pdf)
       - [P2.jfif](./Matemática%20Discreta/Yuri%20Ki/23.1/P2.jfif)
-
 - [Métodos Numéricos](./Métodos%20Numéricos)
   - [Helena](./Métodos%20Numéricos/Helena)
     - [P2.pdf](./Métodos%20Numéricos/Helena/P2.pdf)
-
 - [Programação Estruturada](./Programação%20Estruturada)
   - [Aline Paes](./Programação%20Estruturada/Aline%20Paes)
     - [Desconhecido](./Programação%20Estruturada/Aline%20Paes/Desconhecido)
@@ -194,7 +177,6 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
     - [P2.jpg](./Programação%20Estruturada/Patrick/P2.jpg)
     - [VR(1).jpg](./Programação%20Estruturada/Patrick/VR(1).jpg)
     - [VR(2).jpg](./Programação%20Estruturada/Patrick/VR(2).jpg)
-
 - [Programação Orientada a Objetos](./Programação%20Orientada%20a%20Objetos)
   - [Desconhecido](./Programação%20Orientada%20a%20Objetos/Desconhecido)
     - [P1(1).jpg](./Programação%20Orientada%20a%20Objetos/Desconhecido/P1(1).jpg)
@@ -203,7 +185,6 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
     - [24.2](./Programação%20Orientada%20a%20Objetos/Flávia/24.2)
       - [P2(1).jfif](./Programação%20Orientada%20a%20Objetos/Flávia/24.2/P2(1).jfif)
       - [P2(2).jfif](./Programação%20Orientada%20a%20Objetos/Flávia/24.2/P2(2).jfif)
-
 - [Programação de Computadores I](./Programação%20de%20Computadores%20I)
   - [Anselmo](./Programação%20de%20Computadores%20I/Anselmo)
     - [25.2](./Programação%20de%20Computadores%20I/Anselmo/25.2)
@@ -223,12 +204,10 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
   - [Viterbo](./Programação%20de%20Computadores%20I/Viterbo)
     - [25.1](./Programação%20de%20Computadores%20I/Viterbo/25.1)
       - [P2.pdf](./Programação%20de%20Computadores%20I/Viterbo/25.1/P2.pdf)
-
 - [Sistemas Distribuídos](./Sistemas%20Distribuídos)
   - [Desconhecido](./Sistemas%20Distribuídos/Desconhecido)
     - [P2(1).jpg](./Sistemas%20Distribuídos/Desconhecido/P2(1).jpg)
     - [P2(2).jpg](./Sistemas%20Distribuídos/Desconhecido/P2(2).jpg)
-
 - [Álgebra Linear](./Álgebra%20Linear)
   - [Ana](./Álgebra%20Linear/Ana)
     - [23.2](./Álgebra%20Linear/Ana/23.2)
@@ -265,7 +244,6 @@ Os arquivos estão organizados em diretórios seguindo esta ordem: **matéria > 
   - [Slobodan](./Álgebra%20Linear/Slobodan)
     - [25.2](./Álgebra%20Linear/Slobodan/25.2)
       - [P1.jpg](./Álgebra%20Linear/Slobodan/25.2/P1.jpg)
-
 
 
 ## Como contribuir?
