@@ -1,0 +1,43 @@
+name: Update README Index
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'README.md'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up JDK
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
+      - name: Install Kotlin
+        run: sudo snap install --classic kotlin
+
+      - name: Run makereadme script
+        run: kotlin makereadme.kts
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          if [[ -n $(git status -s README.md) ]]; then
+            git add README.md
+            git commit -m "docs: update README index [skip ci]"
+            git push
+          else
+            echo "readme nao mudou"
+          fi
